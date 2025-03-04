@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-byte-eng&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-byte-eng" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh-byte-eng" alt="harsh-byte-eng" /></a> </p>
-
 - 🔭 I’m currently working on **AWS, DevOps, Python**
 
-- 🌱 I’m currently learning **Python , Data analytics**
+- 🌱 I’m currently learning **Data analytics**
 
 - 📫 How to reach me **hraj6636@gmail.com**
 
